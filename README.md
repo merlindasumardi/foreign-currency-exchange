@@ -24,3 +24,5 @@ Example: [app_name] => foreign-exchange-currency
 docker run -it -p 80:80 --rm [app_name]
 Example: [app_name] => foreign-exchange-currency
 ```
+
+tutorial url: https://mherman.org/blog/2017/12/07/dockerizing-a-react-app/
